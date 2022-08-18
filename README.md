@@ -12,6 +12,7 @@ Projeto desenvolvido utilizando
 ```
 yarn install
 ```
+```
 yarn serve
 ```
 Interaja com a aplicação em `http://localhost:8080/
