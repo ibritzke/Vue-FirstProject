@@ -1,5 +1,6 @@
-# Projeto básico de conhecimento em Vue
+# Projeto em Vue
 VUE +  Axios
+Sistema básico desenvolvido para aprendizado em Vue, utilizando um treinamento disponível no youtube pela WDEVoficial
 
 # Projeto
 Projeto desenvolvido utilizando 
