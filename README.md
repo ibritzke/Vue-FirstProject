@@ -1,24 +1,20 @@
-# site
+# Projeto básico de conhecimento em Vue
+VUE +  Axios
 
-## Project setup
+# Projeto
+Projeto desenvolvido utilizando 
+- Vue
+- Axios
+- VueRouter
+- CSS
+
+## Executando a aplicação
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
 yarn serve
 ```
+Interaja com a aplicação em `http://localhost:8080/
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Autor
+[Ismael Britzke](https://github.com/ibritzke)
