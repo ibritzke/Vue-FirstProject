@@ -15,7 +15,7 @@ yarn install
 ```
 yarn serve
 ```
-Interaja com a aplicação em `http://localhost:8080/
+Interaja com a aplicação em `http://localhost:8080/`
 
 ## Autor
 [Ismael Britzke](https://github.com/ibritzke)
